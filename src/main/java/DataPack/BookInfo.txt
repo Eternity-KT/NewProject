@@ -1,0 +1,4 @@
+B001|The Great Gatsby|F. Scott Fitzgerald|Fiction|5
+B003|1984|George Orwell|Science Fiction|7
+B004|The Hobbit|J.R.R. Tolkien|Fantasy|4
+B005|K|k|k|5
